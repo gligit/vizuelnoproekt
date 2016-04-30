@@ -1,0 +1,13 @@
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.Form1.resources
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.Properties.Resources.resources
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Release\vproekt.exe.manifest
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Release\vproekt.application
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Release\vproekt.exe
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Release\vproekt.pdb
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.exe.manifest
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.application
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.exe
+C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Release\vproekt.pdb
