@@ -31,4 +31,10 @@ Monster_Manager содржи повеќе функции за раѓање(до�
 m 100 , m(melee) Чудовиште што напаѓа од блиску и не користи магии, 100 - енергија на чудовиштето.
 r 100 , r(ranged) Чудовиште што напаѓа од блиску /далеку и користи магии, 100 - енергија на чудовиштето.
 
-![Alt text](/screenshots/0.png?raw=true "Optional Title")
+![Alt text](/screenshots/0.png?raw=true )
+![Alt text](/screenshots/1.png?raw=true )
+![Alt text](/screenshots/2.png?raw=true )
+![Alt text](/screenshots/3.png?raw=true )
+![Alt text](/screenshots/4.png?raw=true )
+![Alt text](/screenshots/5.png?raw=true )
+![Alt text](/screenshots/6.png?raw=true )
