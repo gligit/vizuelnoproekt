@@ -60,9 +60,9 @@ namespace vproekt.Properties {
             }
         }
         
-        internal static System.Drawing.Bitmap orange {
+        internal static System.Drawing.Bitmap menu {
             get {
-                object obj = ResourceManager.GetObject("orange", resourceCulture);
+                object obj = ResourceManager.GetObject("menu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

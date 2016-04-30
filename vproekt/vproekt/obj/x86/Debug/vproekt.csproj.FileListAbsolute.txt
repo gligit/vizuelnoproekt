@@ -11,3 +11,18 @@ C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Debug\
 C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\bin\Debug\vproekt.application
 C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Debug\vproekt.exe.manifest
 C:\Users\gligor\documents\visual studio 2010\Projects\vproekt\vproekt\obj\x86\Debug\vproekt.application
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.exe
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.pdb
+D:\gitb\vizuelnoproekt\vproekt\vproekt\bin\Debug\vproekt.exe.manifest
+D:\gitb\vizuelnoproekt\vproekt\vproekt\bin\Debug\vproekt.application
+D:\gitb\vizuelnoproekt\vproekt\vproekt\bin\Debug\vproekt.exe
+D:\gitb\vizuelnoproekt\vproekt\vproekt\bin\Debug\vproekt.pdb
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.Form1.resources
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.Properties.Resources.resources
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.exe.manifest
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.application
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.Help.resources
+D:\gitb\vizuelnoproekt\vproekt\vproekt\obj\x86\Debug\vproekt.Menu.resources
